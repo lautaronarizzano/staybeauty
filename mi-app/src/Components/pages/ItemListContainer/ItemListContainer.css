@@ -1,0 +1,12 @@
+.itemList-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0rem;
+}
+.listContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
